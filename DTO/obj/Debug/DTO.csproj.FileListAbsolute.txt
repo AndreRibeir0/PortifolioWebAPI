@@ -1,0 +1,6 @@
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\bin\Debug\DTO.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\bin\Debug\DTO.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.pdb

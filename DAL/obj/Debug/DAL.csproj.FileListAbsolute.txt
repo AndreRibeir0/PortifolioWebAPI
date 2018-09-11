@@ -1,0 +1,2 @@
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

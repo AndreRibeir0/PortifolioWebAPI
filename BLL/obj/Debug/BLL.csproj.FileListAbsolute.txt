@@ -10,3 +10,8 @@ C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\obj\Debug\BLL.csproj.Co
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\obj\Debug\BLL.dll
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\obj\Debug\BLL.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\bin\Debug\DAL.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\bin\Debug\DTO.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\bin\Debug\DAL.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\bin\Debug\DAL.dll.config
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\BLL\bin\Debug\DTO.pdb

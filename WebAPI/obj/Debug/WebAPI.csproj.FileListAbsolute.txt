@@ -42,3 +42,15 @@ C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\obj\Debug\WebAPI.csp
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\obj\Debug\WebAPI.dll
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\BLL.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\DTO.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\EntityFramework.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\DAL.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\BLL.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\BLL.dll.config
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\DTO.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\EntityFramework.xml
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\DAL.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\WebAPI\bin\DAL.dll.config

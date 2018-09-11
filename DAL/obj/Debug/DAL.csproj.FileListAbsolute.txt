@@ -1,2 +1,14 @@
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\DAL.dll.config
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\DAL.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\DAL.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\DTO.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\DTO.pdb
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\obj\Debug\DAL.dll
+C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DAL\obj\Debug\DAL.pdb

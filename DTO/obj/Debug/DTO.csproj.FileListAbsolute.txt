@@ -4,3 +4,9 @@ C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.csprojRes
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.dll
 C:\Users\Andre\Documents\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.pdb
+D:\Andre\Portifolio\PortifolioWebAPI\DTO\bin\Debug\DTO.dll
+D:\Andre\Portifolio\PortifolioWebAPI\DTO\bin\Debug\DTO.pdb
+D:\Andre\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Andre\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Andre\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.dll
+D:\Andre\Portifolio\PortifolioWebAPI\DTO\obj\Debug\DTO.pdb
